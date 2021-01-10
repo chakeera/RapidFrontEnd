@@ -1,0 +1,72 @@
+#main-header {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
+#input-title{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    margin: auto;
+
+}
+.card {
+    display: block;
+    width: 560px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 50px;
+    border: 1px solid rgb(211, 211, 211);
+    border-radius: 10px;
+
+}
+#alert{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    margin: auto;
+    padding: 5px;
+}
+#email {
+    width: 540px;
+    padding: 10px 10px 10px 10px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button.subscribe-button{
+    padding: 10px 15px 10px 15px;
+    border: none;
+    border-radius: 8px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    margin: 20px 0px 0px 0px;
+}
+
+.success-card {
+    display: none;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid rgb(211, 211, 211);
+    border-radius: 10px;
+    background-color: #c3ecc5;
+
+}
+
+#success-h1{
+    color: green;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
+
+#success-p{
+    color: green;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
